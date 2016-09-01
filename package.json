@@ -1,0 +1,13 @@
+{
+  "name": "kth-client-ajax",
+  "version": "1.0.0",
+  "description": "A module for browser clients with helper functions to make ajax calls.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}
